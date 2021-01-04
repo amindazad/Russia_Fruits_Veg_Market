@@ -1,0 +1,6 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,2,0,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,,,,,184638580,,,0
+H4,2013,2013,2013,2,0,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,,,,,160134413,,,0
+H4,2014,2014,2014,2,0,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,,,,,,,103264360,,,0
+H3,2010,2010,2010,2,0,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,08,Edible fruit and nuts; peel of citrus fruit or melons,1,No Quantity,,,,,,,149000783,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,08,Edible fruit and nuts; peel of citrus fruit or melons,1,No Quantity,,,,,,,160824642,,,0
