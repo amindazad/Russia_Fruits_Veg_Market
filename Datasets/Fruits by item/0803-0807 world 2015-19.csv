@@ -1,0 +1,72 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,1743,,,,1743,,3123,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,21409486,,,,21409486,,28880533,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,4279855,,,,4279855,,7720206,,,6
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,45883975,,,,45883975,,49819717,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,19121195,,,,19121195,,36292078,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,11910595,,,,11910595,,24215073,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,428876784,,,,428876784,,268149929,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,107650587,,,,107650587,,90320192,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,214132583,,,,214132583,,201712351,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,3725259,,,,3725259,,4654323,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,383132118,,,,383132118,,398728423,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,23687616,,,,23687616,,37038770,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,23251231,,,,23251231,,10061309,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,407856,,,,407856,,1024773,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,3514,,,,3514,,6225,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,19297310,,,,19297310,,28463319,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,5427770,,,,5427770,,8521219,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,52697047,,,,52697047,,57982461,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,29242381,,,,29242381,,59318551,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,25682930,,,,25682930,,50848306,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,465431187,,,,465431187,,313892155,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,147500558,,,,147500558,,112809655,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,222115072,,,,222115072,,191983277,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,3838289,,,,3838289,,5191038,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,295679425,,,,295679425,,323522950,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,24308845,,,,24308845,,40848265,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,12360490,,,,12360490,,9863361,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,565026,,,,565026,,1374761,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,3653,,,,3653,,9795,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,17954454,,,,17954454,,26003097,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,5914786,,,,5914786,,9831509,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,51142037,,,,51142037,,55296564,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,35630602,,,,35630602,,91347857,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,31119082,,,,31119082,,70654295,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,447805383,,,,447805383,,298397185,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,152787568,,,,152787568,,119893934,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,225846439,,,,225846439,,203264407,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,3080550,,,,3080550,,4899395,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,289945254,,,,289945254,,325833355,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,27372259,,,,27372259,,47375140,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,14430271,,,,14430271,,11570306,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,584681,,,,584681,,1872959,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,1946,,,,1946,,3767,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,15067792,,,,15067792,,19029723,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,17311823,,,,17311823,,22119089,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,3515736,,,,3515736,,6351500,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,2958013,,,,2958013,,4916616,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,32229478,,,,32229478,,35584479,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,33381476,,,,33381476,,36680407,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,11837487,,,,11837487,,19072402,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,12248020,,,,12248020,,20909387,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,5564380,,,,5564380,,9764765,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,6122191,,,,6122191,,11723600,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,463660273,,,,463660273,,316238003,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,452235649,,,,452235649,,275061055,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,768735674,,,,768735674,,612342660,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,758246725,,,,758246725,,607730910,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,102547660,,,,102547660,,86286716,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,115477705,,,,115477705,,94904065,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,200302863,,,,200302863,,171400224,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,192388666,,,,192388666,,188814991,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,3271800,,,,3271800,,4820854,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,3983283,,,,3983283,,4408038,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,253302582,,,,253302582,,281229389,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,193464883,,,,193464883,,184772343,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,22335624,,,,22335624,,31916414,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,32822703,,,,32822703,,48592879,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,7105951,,,,7105951,,5689421,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,7522572,,,,7522572,,5592428,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,268118,,,,268118,,429727,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,259703,,,,259703,,676929,,,0

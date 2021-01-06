@@ -1,0 +1,468 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,1216820,,,,1216820,,5595776,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,10000,,,,10000,,60100,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,800,,,,800,,5200,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,247,,,,247,,1899,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,436,,,,436,,3115,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,16380,,,,16380,,108465,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,1219,,,,1219,,6351,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,219,,,,219,,879,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,1187520,,,,1187520,,5409768,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,21500004,,,,21500004,,111152104,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,54,,,,54,,715,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,3,,,,3,,31,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,62596,,,,62596,,199840,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,8585,,,,8585,,51810,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,1968,,,,1968,,18179,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,8264,,,,8264,,50923,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,81413,,,,81413,,629561,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,1910,,,,1910,,12033,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,7121,,,,7121,,47836,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,522,,,,522,,5778,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,756,,,,756,,6015,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,684609,,,,684609,,4482032,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,12004,,,,12004,,81649,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,73,,,,73,,1037,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,20630126,,,,20630126,,105564664,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,550831,,,,550831,,871794,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,24000,,,,24000,,60000,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,600,,,,600,,3900,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,768,,,,768,,2982,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,394037,,,,394037,,366388,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,70099,,,,70099,,223169,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,3,,,,3,,30,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,61324,,,,61324,,215325,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,13251945,,,,13251945,,65026048,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,8372921,,,,8372921,,35812309,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,135,,,,135,,1169,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,3,,,,3,,29,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,49765,,,,49765,,135528,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,1000,,,,1000,,6424,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,2078,,,,2078,,17179,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,454914,,,,454914,,980024,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,17709,,,,17709,,204953,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,151,,,,151,,1224,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,56,,,,56,,930,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,1705,,,,1705,,16075,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,4351509,,,,4351509,,27850204,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,2063768,,,,2063768,,3283919,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,35,,,,35,,221,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,767,,,,767,,2235,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,244,,,,244,,2222,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,53894,,,,53894,,91894,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,147899,,,,147899,,430087,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,15096,,,,15096,,8069,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,1774589,,,,1774589,,2481979,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,71244,,,,71244,,267211,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,8764373,,,,8764373,,28869959,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,41,,,,41,,662,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,7995,,,,7995,,52361,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,287141,,,,287141,,1919566,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,15588,,,,15588,,357985,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,101,,,,101,,2124,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,2910,,,,2910,,17589,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1896,,,,1896,,21926,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,236218,,,,236218,,875031,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,38025,,,,38025,,238334,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,5315,,,,5315,,171324,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,56081,,,,56081,,49936,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,29500,,,,29500,,408930,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,8065185,,,,8065185,,24673154,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,2830,,,,2830,,21220,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,15548,,,,15548,,59817,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,142739,,,,142739,,1874270,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,12,,,,12,,588,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,5306,,,,5306,,26832,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,36655,,,,36655,,261713,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,12,,,,12,,206,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,111,,,,111,,864,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,797,,,,797,,40654,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,5,,,,5,,78,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,425,,,,425,,9422,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,50,,,,50,,1037,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,51071,,,,51071,,822332,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,349,,,,349,,2474,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,15,,,,15,,614,,,0
+H4,2012,2012,2012,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,47932,,,,47932,,707457,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,2234433,,,,2234433,,11210483,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,30164,,,,30164,,92653,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,52900,,,,52900,,310496,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,950,,,,950,,6175,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,1305,,,,1305,,17325,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,4928,,,,4928,,37447,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,147,,,,147,,1235,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,2144039,,,,2144039,,10745151,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,22915807,,,,22915807,,122534536,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,111586,,,,111586,,636177,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,55,,,,55,,753,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,607942,,,,607942,,902768,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,49503,,,,49503,,232436,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,57,,,,57,,882,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,1103,,,,1103,,10460,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,6984,,,,6984,,41625,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,76913,,,,76913,,713234,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,329,,,,329,,3071,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,419,,,,419,,6287,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,360,,,,360,,4161,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,662,,,,662,,7013,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,1382,,,,1382,,13346,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,336661,,,,336661,,2431857,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,749,,,,749,,2245,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,100091,,,,100091,,840940,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,21621011,,,,21621011,,116687282,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,328728,,,,328728,,585283,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,2000,,,,2000,,5020,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,88,,,,88,,254,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,2200,,,,2200,,14300,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,267690,,,,267690,,391764,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,9,,,,9,,41,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,56742,,,,56742,,173905,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,9256546,,,,9256546,,45735877,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,3304762,,,,3304762,,13012023,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,20,,,,20,,330,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,454246,,,,454246,,792887,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,332,,,,332,,2432,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,2897,,,,2897,,23573,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,178995,,,,178995,,680863,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,22935,,,,22935,,259312,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,437,,,,437,,4222,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,78,,,,78,,686,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,81,,,,81,,1420,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,2071,,,,2071,,19337,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,193,,,,193,,1572,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,5289500,,,,5289500,,30937222,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,318922,,,,318922,,767362,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,40000,,,,40000,,75400,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,600,,,,600,,2708,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,184,,,,184,,1762,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,3000,,,,3000,,7500,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,50240,,,,50240,,145348,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,5940,,,,5940,,18295,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,430,,,,430,,830,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,179679,,,,179679,,370517,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,38849,,,,38849,,145003,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,2194316,,,,2194316,,13192685,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,14,,,,14,,235,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1575,,,,1575,,14042,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,598033,,,,598033,,4206105,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,25659,,,,25659,,590016,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,168,,,,168,,3533,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,108,,,,108,,1113,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1636,,,,1636,,18428,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,15536,,,,15536,,94384,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,33790,,,,33790,,206584,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,699,India,IND,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,23500,,,,23500,,164735,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,5273,,,,5273,,197514,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,29680,,,,29680,,392721,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1442560,,,,1442560,,7168520,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,15783,,,,15783,,128756,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1000,,,,1000,,6000,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,544517,,,,544517,,4780186,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,4,,,,4,,175,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,416,,,,416,,3832,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,9252,,,,9252,,45969,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,366868,,,,366868,,2569955,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,356,,,,356,,5861,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,341,,,,341,,2542,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,597,,,,597,,30043,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,112,,,,112,,2158,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,177,,,,177,,2074,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,602,,,,602,,13804,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,3530,,,,3530,,71107,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,17990,,,,17990,,211370,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,325,,,,325,,2968,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,397,,,,397,,7471,,,0
+H4,2013,2013,2013,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,143551,,,,143551,,1810857,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,572204,,,,572204,,3368675,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,160120,,,,160120,,120071,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,62345,,,,62345,,495401,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,20412,,,,20412,,173502,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,278,,,,278,,4856,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,67,,,,67,,679,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,328982,,,,328982,,2574165,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,12520977,,,,12520977,,85309566,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,321398,,,,321398,,2322010,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,24,,,,24,,375,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,20,,,,20,,55,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,1356578,,,,1356578,,1301270,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,112918,,,,112918,,1270892,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,185955,,,,185955,,2482480,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,104,,,,104,,1621,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,35,,,,35,,475,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,2403,,,,2403,,14160,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,44973,,,,44973,,450257,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,19932,,,,19932,,100657,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,611,,,,611,,7661,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,1173,,,,1173,,11931,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,2994,,,,2994,,27183,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,699,India,IND,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,49442,,,,49442,,239170,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,135720,,,,135720,,1100482,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,20000,,,,20000,,95660,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,302758,,,,302758,,3449835,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,9963939,,,,9963939,,72433392,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,650602,,,,650602,,844948,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,200,,,,200,,774,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,527,,,,527,,3422,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,633400,,,,633400,,779891,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,1900,,,,1900,,15565,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,14554,,,,14554,,45117,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,21,,,,21,,179,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,11057033,,,,11057033,,54134349,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,6557495,,,,6557495,,26010430,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,28,,,,28,,574,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,20,,,,20,,208,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,234370,,,,234370,,277060,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,454,,,,454,,4271,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,1133,,,,1133,,9173,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,685843,,,,685843,,2659882,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,15646,,,,15646,,168070,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,88,,,,88,,1577,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,1324,,,,1324,,13702,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,484,,,,484,,3920,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,3560149,,,,3560149,,24985484,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,71035,,,,71035,,194064,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,2051,,,,2051,,1671,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,0,,,,0,,93,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,4205,,,,4205,,12951,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,1300,,,,1300,,10238,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,4525,,,,4525,,3849,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,11697,,,,11697,,33405,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,9077,,,,9077,,27957,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,31744,,,,31744,,69918,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,6436,,,,6436,,33981,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1353233,,,,1353233,,10246535,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,12,,,,12,,257,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,10000,,,,10000,,12000,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,491541,,,,491541,,6451494,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,12,,,,12,,211,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,217,,,,217,,5976,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,17027,,,,17027,,373440,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,468499,,,,468499,,322868,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,57000,,,,57000,,443848,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,999,,,,999,,10978,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,10400,,,,10400,,69003,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,21580,,,,21580,,131628,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,2937,,,,2937,,114309,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,28000,,,,28000,,418564,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,202521,,,,202521,,1536602,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,39188,,,,39188,,322915,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,3300,,,,3300,,32442,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080270,"Nuts, edible; kola nuts (Cola spp.), fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,15,,,,15,,428,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,080270,"Nuts, edible; kola nuts (Cola spp.), fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,15,,,,15,,428,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,240248,,,,240248,,2552543,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,7,,,,7,,322,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,1552,,,,1552,,11642,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,10249,,,,10249,,64772,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,27440,,,,27440,,134076,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,232,,,,232,,1714,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,676,,,,676,,14749,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,21227,,,,21227,,36422,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,48,,,,48,,1064,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,2560,,,,2560,,54074,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,36187,,,,36187,,503051,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,586,Pakistan,PAK,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,216,,,,216,,11257,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,244,,,,244,,2048,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,11039,,,,11039,,80930,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,128571,,,,128571,,1636421,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,1310254,,,,1310254,,7709787,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,22500,,,,22500,,136125,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,500,,,,500,,3094,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,67,,,,67,,834,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,140,,,,140,,1193,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,86350,,,,86350,,546879,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,7149,,,,7149,,46068,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,1182153,,,,1182153,,6898635,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,11395,,,,11395,,76960,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,2975389,,,,2975389,,15569195,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,17237,,,,17237,,91200,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,27475,,,,27475,,133599,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,1100,,,,1100,,6916,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,472,,,,472,,4630,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,7425,,,,7425,,50695,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,32490,,,,32490,,209021,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,2487,,,,2487,,12957,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,50,,,,50,,630,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080211,"Almonds, in shell",8,Weight in kilograms,2886653,,,,2886653,,15059547,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,12959881,,,,12959881,,72352602,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,51711,,,,51711,,330858,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,35,,,,35,,590,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,29500,,,,29500,,164389,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,3500,,,,3500,,21176,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,76,,,,76,,1368,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,8024,,,,8024,,50554,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,62658,,,,62658,,442974,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,56,,,,56,,1335,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,1191,,,,1191,,11838,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,3018,,,,3018,,23515,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,839964,,,,839964,,5568995,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,401,,,,401,,6510,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,3592,,,,3592,,18831,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,11932490,,,,11932490,,65548844,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,23665,,,,23665,,160826,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,16990623,,,,16990623,,88450033,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,132598,,,,132598,,760873,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,82,,,,82,,1416,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,50,,,,50,,339,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,4448,,,,4448,,26910,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,374,,,,374,,3865,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,9776,,,,9776,,61591,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,70288,,,,70288,,509788,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,1980,,,,1980,,11191,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,1677,,,,1677,,13604,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,1268,,,,1268,,10738,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,365,,,,365,,3360,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,1072569,,,,1072569,,7416780,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,319,,,,319,,1662,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,7400,,,,7400,,50701,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,15687140,,,,15687140,,79573361,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080212,"Almonds, shelled",8,Weight in kilograms,289,,,,289,,3854,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,193389,,,,193389,,544741,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,620,,,,620,,1861,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,4450,,,,4450,,21611,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,138060,,,,138060,,349797,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,84,,,,84,,1061,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,50175,,,,50175,,170410,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,868161,,,,868161,,1659762,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,17302,,,,17302,,43964,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,1500,,,,1500,,9016,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,2480,,,,2480,,8879,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,91965,,,,91965,,284791,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,13458,,,,13458,,43017,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,080221,"Hazelnuts/filberts (Corylus spp.), in shell",8,Weight in kilograms,741456,,,,741456,,1270095,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,11187829,,,,11187829,,53082962,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,6282444,,,,6282444,,24662999,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,31,,,,31,,502,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,675,,,,675,,5115,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,417486,,,,417486,,1643095,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,11428,,,,11428,,116711,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,62,,,,62,,885,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,77,,,,77,,1174,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,2302,,,,2302,,22742,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,394,,,,394,,4604,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,4472930,,,,4472930,,26625135,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,14691645,,,,14691645,,70041788,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,8846550,,,,8846550,,34197895,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,75,,,,75,,1136,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,1350,,,,1350,,8786,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,1508,,,,1508,,12219,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,42578,,,,42578,,239674,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,10425,,,,10425,,127805,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,20,,,,20,,314,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,134,,,,134,,2015,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,1705,,,,1705,,20372,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,5386322,,,,5386322,,34659369,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,080222,"Hazelnuts/filberts (Corylus spp.), shelled",8,Weight in kilograms,400980,,,,400980,,772204,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,3207329,,,,3207329,,5121986,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,306,,,,306,,2967,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,1018,,,,1018,,1537,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,80390,,,,80390,,198878,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,243559,,,,243559,,389208,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,2673886,,,,2673886,,4035740,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,89485,,,,89485,,288745,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,118685,,,,118685,,204912,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,1877256,,,,1877256,,1325254,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,361,,,,361,,3686,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,5,,,,5,,50,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,101740,,,,101740,,295046,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,85291,,,,85291,,46286,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,1633912,,,,1633912,,768959,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,54932,,,,54932,,209617,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080231,"Walnuts, in shell",8,Weight in kilograms,1015,,,,1015,,1611,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,16720373,,,,16720373,,56806808,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,25,,,,25,,417,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,222500,,,,222500,,1339340,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,549,,,,549,,3333,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,8448,,,,8448,,162398,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,212,,,,212,,1973,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,112,,,,112,,2942,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,6083,,,,6083,,33759,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,3736,,,,3736,,34931,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,16631,,,,16631,,95332,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,14704,,,,14704,,79200,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,699,India,IND,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,70500,,,,70500,,569370,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,703,Slovakia,SVK,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,6200,,,,6200,,48224,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,1840,,,,1840,,49494,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,200,,,,200,,5512,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,1934171,,,,1934171,,6676517,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,15,,,,15,,293,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,12852464,,,,12852464,,41705213,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,22019,,,,22019,,165450,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,1559964,,,,1559964,,5833110,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,10742915,,,,10742915,,18804259,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,73,,,,73,,1343,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,480203,,,,480203,,2978945,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,11629,,,,11629,,298484,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,5,,,,5,,52,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,2087,,,,2087,,35413,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,16809,,,,16809,,67369,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,6300,,,,6300,,60989,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,2550,,,,2550,,83446,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,470036,,,,470036,,724785,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,8675,,,,8675,,113955,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,9550679,,,,9550679,,13649296,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,38771,,,,38771,,390780,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080232,"Walnuts, shelled",8,Weight in kilograms,155098,,,,155098,,399404,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,42909,,,,42909,,116638,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,5,,,,5,,14,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,40404,,,,40404,,109916,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,580,,,,580,,1868,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,1920,,,,1920,,4840,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,597726,,,,597726,,868269,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,596675,,,,596675,,864919,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,1049,,,,1049,,3344,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,080240,Chestnuts (Castanea spp.),8,Weight in kilograms,2,,,,2,,5,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080250,Pistachios,8,Weight in kilograms,13354999,,,,13354999,,82998592,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080250,Pistachios,8,Weight in kilograms,52811,,,,52811,,349129,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080250,Pistachios,8,Weight in kilograms,60,,,,60,,1398,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080250,Pistachios,8,Weight in kilograms,1762,,,,1762,,12527,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080250,Pistachios,8,Weight in kilograms,266,,,,266,,7914,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,080250,Pistachios,8,Weight in kilograms,11570376,,,,11570376,,71453729,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080250,Pistachios,8,Weight in kilograms,139,,,,139,,2308,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080250,Pistachios,8,Weight in kilograms,274,,,,274,,9621,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080250,Pistachios,8,Weight in kilograms,10080,,,,10080,,70896,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,080250,Pistachios,8,Weight in kilograms,295,,,,295,,1918,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080250,Pistachios,8,Weight in kilograms,59078,,,,59078,,339669,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080250,Pistachios,8,Weight in kilograms,1659755,,,,1659755,,10748155,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,080250,Pistachios,8,Weight in kilograms,103,,,,103,,1329,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080250,Pistachios,8,Weight in kilograms,18147573,,,,18147573,,112707930,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080250,Pistachios,8,Weight in kilograms,66860,,,,66860,,437578,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080250,Pistachios,8,Weight in kilograms,2450,,,,2450,,19849,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080250,Pistachios,8,Weight in kilograms,584,,,,584,,23992,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,080250,Pistachios,8,Weight in kilograms,15689965,,,,15689965,,94698016,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,080250,Pistachios,8,Weight in kilograms,5,,,,5,,31,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080250,Pistachios,8,Weight in kilograms,313,,,,313,,13771,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080250,Pistachios,8,Weight in kilograms,9780,,,,9780,,98778,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,080250,Pistachios,8,Weight in kilograms,4795,,,,4795,,29233,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080250,Pistachios,8,Weight in kilograms,2372821,,,,2372821,,17386682,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080260,Macadamia nuts,8,Weight in kilograms,6975,,,,6975,,77168,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,080260,Macadamia nuts,8,Weight in kilograms,499,,,,499,,5240,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080260,Macadamia nuts,8,Weight in kilograms,1050,,,,1050,,6353,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,080260,Macadamia nuts,8,Weight in kilograms,36,,,,36,,1103,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,080260,Macadamia nuts,8,Weight in kilograms,61,,,,61,,990,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,080260,Macadamia nuts,8,Weight in kilograms,5329,,,,5329,,63483,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080260,Macadamia nuts,8,Weight in kilograms,12417,,,,12417,,207367,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,080260,Macadamia nuts,8,Weight in kilograms,12417,,,,12417,,207367,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,175045,,,,175045,,1668143,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,16,,,,16,,504,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,56450,,,,56450,,395957,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,1544,,,,1544,,58933,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,93,,,,93,,1664,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,147,,,,147,,5056,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,274,,,,274,,5409,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,8953,,,,8953,,118113,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,3410,,,,3410,,7130,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,699,India,IND,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,2500,,,,2500,,16045,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,380,,,,380,,3953,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,2,,,,2,,100,,,0
+H3,2010,2010,2010,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,101276,,,,101276,,1055279,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,92855,,,,92855,,1134403,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,13,,,,13,,536,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,300,,,,300,,3391,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,29443,,,,29443,,207992,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,61,,,,61,,644,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,1199,,,,1199,,64148,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,303,,,,303,,6641,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,6015,,,,6015,,102943,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,1630,,,,1630,,11571,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,2,,,,2,,118,,,0
+H3,2011,2011,2011,6,1,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,080290,"Nuts, n.e.s. in 08.01 & 08.02, fresh/dried, whether/not shelled/peeled",8,Weight in kilograms,53890,,,,53890,,736418,,,0
